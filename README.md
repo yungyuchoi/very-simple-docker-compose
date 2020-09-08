@@ -1,4 +1,6 @@
-Simplified Example Voting App from https://github.com/dockersamples/example-voting-app 
+Simplified Example Voting App
+
+( from https://github.com/dockersamples/example-voting-app )
 
 =========
 
